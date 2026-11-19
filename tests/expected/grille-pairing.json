@@ -1,0 +1,15 @@
+[
+  {
+    "fact_id": "grille-pairing-01",
+    "pairs": [
+      [
+        "L1",
+        "R1"
+      ]
+    ],
+    "unmatched": {
+      "L2": "quantity",
+      "R2": "interface"
+    }
+  }
+]

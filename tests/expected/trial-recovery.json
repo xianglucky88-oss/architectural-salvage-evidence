@@ -1,0 +1,23 @@
+[
+  {
+    "fact_id": "trial-recovery-01",
+    "strata": [
+      {
+        "fastener": "clip",
+        "position": "centre",
+        "population": 40,
+        "tested": 0,
+        "intact_recovered": 0,
+        "observed_rate": null
+      },
+      {
+        "fastener": "clip",
+        "position": "edge",
+        "population": 12,
+        "tested": 2,
+        "intact_recovered": 1,
+        "observed_rate": 0.5
+      }
+    ]
+  }
+]

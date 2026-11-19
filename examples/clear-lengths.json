@@ -1,0 +1,24 @@
+{
+  "records": [
+    {
+      "id": "clear-lengths-01",
+      "length_mm": 1000,
+      "damage": [
+        {
+          "start_mm": 0,
+          "end_mm": 80
+        },
+        {
+          "start_mm": 500,
+          "end_mm": 520
+        }
+      ],
+      "uninspected": [
+        {
+          "start_mm": 510,
+          "end_mm": 600
+        }
+      ]
+    }
+  ]
+}

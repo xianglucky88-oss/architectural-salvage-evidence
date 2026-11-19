@@ -1,0 +1,20 @@
+[
+  {
+    "fact_id": "layer-certificates-01",
+    "layer_claims": {
+      "L1": {
+        "status": "supported",
+        "evidence": [
+          {
+            "report": "T1",
+            "material": "oak"
+          }
+        ]
+      },
+      "L2": {
+        "status": "unproven",
+        "evidence": []
+      }
+    }
+  }
+]

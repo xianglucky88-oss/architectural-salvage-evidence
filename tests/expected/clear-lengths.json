@@ -1,0 +1,22 @@
+[
+  {
+    "fact_id": "clear-lengths-01",
+    "clear_spans_mm": [
+      [
+        80,
+        500
+      ],
+      [
+        600,
+        1000
+      ]
+    ],
+    "longest_clear_mm": 420,
+    "uninspected_mm": [
+      [
+        510,
+        600
+      ]
+    ]
+  }
+]

@@ -1,0 +1,37 @@
+{
+  "records": [
+    {
+      "id": "grille-pairing-01",
+      "grilles": [
+        {
+          "piece": "L1",
+          "side": "left",
+          "connector": "pin",
+          "joint_mm": 80,
+          "finish": "outer"
+        },
+        {
+          "piece": "L2",
+          "side": "left",
+          "connector": "pin",
+          "joint_mm": 80,
+          "finish": "outer"
+        },
+        {
+          "piece": "R1",
+          "side": "right",
+          "connector": "pin",
+          "joint_mm": 80,
+          "finish": "outer"
+        },
+        {
+          "piece": "R2",
+          "side": "right",
+          "connector": "pin",
+          "joint_mm": 85,
+          "finish": "outer"
+        }
+      ]
+    }
+  ]
+}

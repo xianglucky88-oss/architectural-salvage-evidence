@@ -1,0 +1,35 @@
+{
+  "records": [
+    {
+      "id": "trial-recovery-01",
+      "census": [
+        {
+          "fastener": "clip",
+          "position": "edge",
+          "population": 12
+        },
+        {
+          "fastener": "clip",
+          "position": "centre",
+          "population": 40
+        }
+      ],
+      "trials": [
+        {
+          "panel": "p1",
+          "fastener": "clip",
+          "position": "edge",
+          "intact_before": true,
+          "intact_after": true
+        },
+        {
+          "panel": "p2",
+          "fastener": "clip",
+          "position": "edge",
+          "intact_before": true,
+          "intact_after": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+[
+  {
+    "fact_id": "assembly-origin-01",
+    "original_parts": {
+      "left": "P1"
+    },
+    "missing_slots": [
+      "right",
+      "top"
+    ],
+    "substitution_candidates": {
+      "right": [
+        "P2"
+      ],
+      "top": []
+    },
+    "unknown_original_slots": [
+      "P2"
+    ]
+  }
+]

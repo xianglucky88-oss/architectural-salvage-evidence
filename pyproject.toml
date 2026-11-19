@@ -1,0 +1,14 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "architectural-salvage-evidence"
+version = "0.1.0"
+description = "建筑拆解与构件再用数据"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = []
+
+[tool.setuptools]
+packages = ["architectural_salvage_evidence"]

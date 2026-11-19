@@ -1,0 +1,33 @@
+{
+  "records": [
+    {
+      "id": "assembly-origin-01",
+      "slots": [
+        {
+          "slot": "left",
+          "spec": "J"
+        },
+        {
+          "slot": "right",
+          "spec": "J"
+        },
+        {
+          "slot": "top",
+          "spec": "H"
+        }
+      ],
+      "recovered": [
+        {
+          "part": "P1",
+          "spec": "J",
+          "original_slot": "left"
+        },
+        {
+          "part": "P2",
+          "spec": "J",
+          "original_slot": null
+        }
+      ]
+    }
+  ]
+}

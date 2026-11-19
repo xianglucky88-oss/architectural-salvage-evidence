@@ -1,0 +1,27 @@
+{
+  "records": [
+    {
+      "id": "layer-certificates-01",
+      "tests": [
+        {
+          "report": "T1",
+          "panel": "P",
+          "layer": "facing",
+          "material": "oak"
+        }
+      ],
+      "recovered_layers": [
+        {
+          "piece": "L1",
+          "panel": "P",
+          "layer": "facing"
+        },
+        {
+          "piece": "L2",
+          "panel": "P",
+          "layer": "substrate"
+        }
+      ]
+    }
+  ]
+}
